@@ -1,0 +1,12 @@
+{
+  "name": "My Personal Repo",
+  "extensions": [
+    {
+      "name": "SexKomix Test",
+      "version": "1.0",
+      "apkUrl": "https://example.com/sexkomix2.apk",
+      "lang": "ru",
+      "description": "Расширение для тестового сайта SexKomix2"
+    }
+  ]
+}
